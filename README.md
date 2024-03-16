@@ -2,4 +2,4 @@
 
 ### Branches
 `master`: Simple implementation of rate limiting <br>
-`bucket-per-ip-with-caching`: Advanced implementation using IP based buckets and Spring Caching
+`bucket-per-ip-with-caching`: Same as on `master` but with IP based buckets and Spring Caching
